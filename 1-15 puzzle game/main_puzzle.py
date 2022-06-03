@@ -1,14 +1,5 @@
 """
-CIA Assignment
-
-NAME : Shreyansh Padarha
-
-REG NO. : 21112026
-
-CLASS : 2 BSC DS A
-
-Lines of Code (self) : 378
---> For the issues and bugs i faced, I used stackoverflow to see the syntax change, but didn't copy anything
+Developed by Shreyansh Padarha 
 """
 
 # importing required libraries
@@ -376,3 +367,7 @@ if __name__ == "__main__":
     process = Button_Clicks(puzzle)
 
     puzzle.mainloop()
+
+"""
+Developed by Shreyansh Padarha
+"""
